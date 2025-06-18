@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\BubbleSort\\BubbleSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24D2A979-50C0-44E3-B0AE-AEFF9C5F8989}|BubbleSort\\BubbleSort.csproj|m:\\bubblesort\\bubblesort\\bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D2A979-50C0-44E3-B0AE-AEFF9C5F8989}|BubbleSort\\BubbleSort.csproj|solutionrelative:bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\BubbleSort\\BubbleSort\\BubbleSort\\Program.cs",
+              "RelativeDocumentMoniker": "BubbleSort\\Program.cs",
+              "ToolTip": "M:\\BubbleSort\\BubbleSort\\BubbleSort\\Program.cs",
+              "RelativeToolTip": "BubbleSort\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T23:15:41.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
