@@ -18,4 +18,10 @@ func main() {
 	} else {
 		fmt.Println("Child/Teen")
 	}
+
+	x := 10
+	for i := 1; i <= 10; i++ {
+		var a int = x * i
+		fmt.Printf("%d x %d = %d\n", x, i, a)
+	}
 }
