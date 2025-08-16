@@ -24,4 +24,17 @@ func main() {
 		var a int = x * i
 		fmt.Printf("%d x %d = %d\n", x, i, a)
 	}
+
+	// Array: tamanha definido
+	// Slices: sem tamanho definido
+	fruits := [3]string{"Banana", "Apple", "Berry"} // Array
+	cars := []string{"BMW", "Ferrari", "Mercedes"} // Slice
+
+	for _, fruit := range fruits {
+		fmt.Printf("Fruit: %s\n", fruit)
+	}
+
+	for _, car := range cars {
+		fmt.Printf("Car: %s\n", car)
+	}
 }
